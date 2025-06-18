@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souma061" alt="souma061" /></a> </p>
 
-- 🔭 I’m currently working on **Mastering the JavaScript**
+- 🔭 I’m currently focusing n Frontend Development**
 
 - 🌱 I’m currently learning **Javascript**
 
