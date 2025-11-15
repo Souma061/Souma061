@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌌 **GALACTIC CODE MATRIX** 🌌
-## ⚡ **Commander Soumabrata Ghosh** - Digital Space Pioneer ⚡
-### 🚀 [Your role] @ [Your company] | 🛸 Sector Howrah, India
+# 🏯 **DOJO OF CODE** 🏯
+## 🥋 **Sensei Soumabrata Ghosh** - Master of Digital Arts 🥋
+### ⚔️ [Your role] @ [Your company] | 🌸 Howrah, India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=ACCESSING+NEURAL+NETWORK...;INITIALIZING+QUANTUM+PROTOCOLS;Don't stop when you are TIRED, Stop when you are DONE;READY+FOR+DEEP+SPACE+DEPLOYMENT" alt="System Boot Sequence" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=28&duration=4000&pause=1500&color=C9A961&center=true&vCenter=true&multiline=true&width=800&height=120&lines=道+Path+of+the+Code+Warrior;Discipline+%E2%80%A2+Precision+%E2%80%A2+Commit;Don't stop when you are TIRED, Stop when you are DONE" alt="Dojo Mantra" />
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=19&height=140&section=header&text=🛸&fontSize=80&fontColor=00D9FF&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=header&text=⛩️&fontSize=60&fontColor=C9A961&animation=twinkling"/>
 
 </div>
 
@@ -14,25 +14,18 @@
 
 <div align="center">
 
-## 🛸 **NEURAL INTERFACE STATUS** 🛸
-### *Commander Profile & Mission Briefing*
+## 🧘‍♂️ **DEVELOPER MANTRA** 🧘‍♂️
+*"[Your personalPhilosophy]"*
 
+### 🌅 **Current Path**
 ```yaml
-╔══════════════════════════════════════╗
-║  GALACTIC REGISTRY ENTRY             ║
-╠══════════════════════════════════════╣
-║  Callsign: Souma061              ║
-║  Rank: Beginner           ║
-║  Specialization: Full Stack Development       ║
-║  Current Mission: Building meaningful websites and Contribute to opensource community ║
-║  Bio-Matrix: A passionate fullstack developer from India.I have passion for building real-world solutions and Scalable product. Currently pursuing B.Sc. Computer Science Hons. from Narasinha Dutt College.                 ║
-╚══════════════════════════════════════╝
+道 Way: Open to Freelancing and Internships
+修行 Training: Dart, TypeScript
+段 Rank: Beginner Dan
+流派 School: A passionate fullstack developer from India.I have passion for building real-world solutions and Scalable product. Currently pursuing B.Sc. Computer Science Hons. from Narasinha Dutt College.
 ```
 
-### ⚡ **Quantum Philosophy**
-> *"[Your techPhilosophy]"*
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Souma061&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF073A&currStreakLabel=00D9FF&sideLabels=39FF14&dates=C9C9C9" width="520"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Souma061&theme=tokyonight&hide_border=true&background=0F3460&ring=C9A961&fire=E17055&currStreakLabel=C9A961&sideLabels=C9A961" width="500"/>
 
 </div>
 
@@ -40,120 +33,25 @@
 
 <div align="center">
 
-## 🔬 **TECHNOLOGY MATRIX** 🔬
-### *Advanced Systems & Protocols*
+## ⚔️ **SKILL SCROLLS** ⚔️
+### *Ancient Techniques Mastered*
 
-<table align="center" style="border: none;">
-<tr>
-<td align="center">
-
-### ⚡ **Primary Arsenal**
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,tailwindcss,bootstrap,vite,nodejs,express,mysql,mongodb,linux,flutter,figma,git,github,vscode,postman,discord,notion)](https://skillicons.dev)&theme=dark&perline=8" />
-
-### 🌌 **System Architecture Analysis**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souma061&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9C9C9&icon_color=FF073A" width="420"/>
-
-</td>
-</tr>
-</table>
-
-### 📊 **Neural Activity Patterns**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=radical" width="680"/>
-
-### 🚀 **Deep Space Mission Log**
-```yaml
-🛸 Current Exploration: Dart, TypeScript
-⚡ Power Core: Web Development, Data Science
-🌟 Mission Status: Open to Freelancing and Internships
-🔋 Energy Level: Optimal for Extended Operations
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🛰️ **GALACTIC PROJECT DEPLOYMENTS** 🛰️
-### *Critical Mission Archives*
-
-<table align="center" style="width: 95%; border-collapse: separate; border-spacing: 15px;">
-<tr>
-<td align="center" width="32%" style="border: 2px solid #00D9FF; border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #0D1117, #1a1a2e, #0D1117); box-shadow: 0 0 20px rgba(0,217,255,0.3);">
-
-### 🚀 **MISSION ALPHA**
-**Stellarium**  
-*Classification: ULTRA-HIGH PRIORITY*
-
-A modern, elegant astrology website that brings the mysteries of the cosmos to your fingertips. Stellarium offers personalized horoscope readings, celestial insights, and astrological guidance in a beautifully crafted digital experience.
-
-**⚡ Tech Stack:**  
-`Html5, CSS#, JavaScript`
-
-<a href="https://stellarium-ecru.vercel.app/">
-<img src="https://img.shields.io/badge/ACCESS%20MAINFRAME-00D9FF?style=for-the-badge&logo=matrix&logoColor=0D1117&labelColor=FF073A"/>
-</a>
-
-</td>
-<td align="center" width="32%" style="border: 2px solid #FF073A; border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #0D1117, #1a1a2e, #0D1117); box-shadow: 0 0 20px rgba(255,7,58,0.3);">
-
-### 🛸 **MISSION BETA**
-**PostMee**  
-*Classification: DEEP SPACE OPS*
-
- modern blogging playground built with React, Tailwind CSS, and Appwrite.
-
-**⚡ Tech Stack:**  
-`React, Tailwind CSS, Appwrite`
-
-<a href="https://postmee-123.vercel.app/">
-<img src="https://img.shields.io/badge/LAUNCH%20SEQUENCE-FF073A?style=for-the-badge&logo=rocket&logoColor=white&labelColor=00D9FF"/>
-</a>
-
-</td>
-<td align="center" width="32%" style="border: 2px solid #39FF14; border-radius: 12px; padding: 25px; background: linear-gradient(135deg, #0D1117, #1a1a2e, #0D1117); box-shadow: 0 0 20px rgba(57,255,20,0.3);">
-
-### 🌌 **MISSION GAMMA**
-**LinguaChat**  
-*Classification: QUANTUM LEVEL*
-
-Real-time, multilingual chat for hackathons. The backend (Node/Express + Socket.IO) translates every message on the fly via Lingo.dev—our AI translation partner—while the frontend delivers a WhatsApp-inspired experience served from the same server.
-
-**⚡ Tech Stack:**  
-`[Your project3Tech]`
-
-<a href="[Your project3Link]">
-<img src="https://img.shields.io/badge/NEURAL%20LINK-39FF14?style=for-the-badge&logo=cpu&logoColor=0D1117&labelColor=FF073A"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📡 **QUANTUM ANALYTICS DASHBOARD** 📡
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souma061&bg_color=0D1117&color=00D9FF&line=FF073A&point=39FF14&area=true&hide_border=true&custom_title=Neural%20Network%20Activity%20Matrix" width="750"/>
-
-### 🔋 **System Performance Metrics**
 <table align="center">
 <tr>
 <td align="center">
 
-**⚡ PROCESSING POWER**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souma061&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF073A&text_color=C9C9C9&rank_icon=github)
+### 📜 **Weapon Mastery**
+<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,tailwindcss,bootstrap,vite,nodejs,express,mysql,mongodb,linux,flutter,figma,git,github,vscode,postman,discord,notion)](https://skillicons.dev)&theme=dark&perline=6" />
 
 </td>
 </tr>
 </table>
 
-### 🌟 **Command Center Intel**
-> **Classified Data:** [Your funFact]
+### 🥋 **Belt Progression System**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souma061&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F3460&title_color=C9A961&text_color=C9A961&icon_color=E17055" width="500"/>
+
+### ⚡ **Combat Analytics**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=tokyo_night" width="650"/>
 
 </div>
 
@@ -161,40 +59,144 @@ Real-time, multilingual chat for hackathons. The backend (Node/Express + Socket.
 
 <div align="center">
 
-## 🛸 **GALACTIC COMMUNICATION ARRAY** 🛸
-### *Establish Neural Link with Command*
+## 🪨 **PROJECT COMBAT MISSIONS** 🪨
+### *Legendary Battles Fought & Won*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=750&lines=TRANSMISSION+CHANNELS+OPEN;QUANTUM+ENTANGLEMENT+READY;INITIATE+CONTACT+PROTOCOL" alt="Communication Array" />
+<table align="center" style="border-collapse: separate; border-spacing: 20px;">
+<tr>
+<td align="center" width="30%" style="border: 2px solid #C9A961; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
 
-### 📡 **Primary Communication Channels**
-<p align="center" style="margin: 30px 0;">
+### ⚔️ **Mission Alpha**
+**Stellarium**  
+*Difficulty: 🗡️ Hardcore*
+
+A modern, elegant astrology website that brings the mysteries of the cosmos to your fingertips. Stellarium offers personalized horoscope readings, celestial insights, and astrological guidance in a beautifully crafted digital experience.
+
+**🥋 Techniques Used:**  
+`Html5, CSS#, JavaScript`
+
+<a href="https://stellarium-ecru.vercel.app/">
+<img src="https://img.shields.io/badge/Enter%20Dojo-C9A961?style=for-the-badge&logo=torii-gate&logoColor=0F3460"/>
+</a>
+
+</td>
+<td align="center" width="30%" style="border: 2px solid #E17055; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+
+### ⚔️ **Mission Beta**
+**PostMee**  
+*Difficulty: 🥋 Master*
+
+ modern blogging playground built with React, Tailwind CSS, and Appwrite.
+
+**🥋 Techniques Used:**  
+`React, Tailwind CSS, Appwrite`
+
+<a href="https://postmee-123.vercel.app/">
+<img src="https://img.shields.io/badge/Enter%20Dojo-E17055?style=for-the-badge&logo=torii-gate&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="30%" style="border: 2px solid #5F8A8B; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0F3460, #16213E);">
+
+### ⚔️ **Mission Gamma**
+**LinguaChat**  
+*Difficulty: 🏯 Sensei*
+
+Real-time, multilingual chat for hackathons. The backend (Node/Express + Socket.IO) translates every message on the fly via Lingo.dev—our AI translation partner—while the frontend delivers a WhatsApp-inspired experience served from the same server.
+
+**🥋 Techniques Used:**  
+`[Your project3Tech]`
+
+<a href="https://linguachat-dpwj.onrender.com/">
+<img src="https://img.shields.io/badge/Enter%20Dojo-5F8A8B?style=for-the-badge&logo=torii-gate&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **HALL OF HONOR** 🏆
+### *Sacred Achievements*
+
+<table align="center">
+<tr>
+<td align="center">
+
+🥇 **Built a Chat app with multi language support.**
+
+</td>
+<td align="center">
+
+🥈 **[Your achievement2]**
+
+</td>
+<td align="center">
+
+🥉 **[Your achievement3]**
+
+</td>
+</tr>
+</table>
+
+### 📊 **Dojo Training Progress**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souma061&bg_color=0F3460&color=C9A961&line=E17055&point=C9A961&area=true&hide_border=true&custom_title=Path%20of%20Continuous%20Improvement" width="700"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌸 **MEDITATION CHAMBER** 🌸
+### *Daily Practice & Focus*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=24&duration=5000&pause=2000&color=C9A961&center=true&vCenter=true&width=700&lines=Focus+on+the+Present+Commit;Empty+Your+Mind%2C+Fill+Your+Repository;The+Way+of+Clean+Code" alt="Meditation" />
+
+### 🧘‍♂️ **Current Meditation Focus**
+```yaml
+今日の修行 (Today's Training): Dart, TypeScript
+心 (Mind): Clear and Focused  
+体 (Body): Ready for Coding Marathons
+魂 (Spirit): Driven by Clean Architecture
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏯 **TEMPLE GATES** 🏯
+### *Connect with the Sensei*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&size=22&duration=4500&pause=1000&color=E17055&center=true&vCenter=true&width=650&lines=Ready+to+Begin+Your+Training%3F;The+Dojo+Doors+Are+Always+Open;師父+is+Ready+to+Guide+You" alt="Contact Invitation" />
+
+<p align="center">
 <a href="https://linkedin.com/in/soumabrata-ghosh-85862530b">
-<img src="https://img.shields.io/badge/🛰️%20PROFESSIONAL%20NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00D9FF"/>
+<img src="https://img.shields.io/badge/🧘‍♂️%20LinkedIn%20Dojo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C9A961"/>
 </a>
 <a href="https://twitter.com/SOUMABRATAGHOS4">
-<img src="https://img.shields.io/badge/📡%20NEURAL%20FEED-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FF073A"/>
+<img src="https://img.shields.io/badge/🐦%20Twitter%20Scrolls-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E17055"/>
 </a>
 <a href="[Your portfolio]">
-<img src="https://img.shields.io/badge/🌌%20COMMAND%20CENTER-00D9FF?style=for-the-badge&logo=matrix&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/⛩️%20Sacred%20Portfolio-C9A961?style=for-the-badge&logo=safari&logoColor=0F3460"/>
 </a>
 <a href="mailto:soumabrataghosh57@gmail.com">
-<img src="https://img.shields.io/badge/⚡%20QUANTUM%20MAIL-FF073A?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=39FF14"/>
+<img src="https://img.shields.io/badge/📮%20Temple%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5F8A8B"/>
 </a>
 </p>
 
-### 🔬 **Deep Space Visitor Analytics**
-<img src="https://komarev.com/ghpvc/?username=Souma061&label=Neural%20Connections&color=00D9FF&style=for-the-badge&logo=matrix" />
+### 🧘‍♂️ **Temple Visitor Counter**
+<img src="https://komarev.com/ghpvc/?username=Souma061&label=Enlightened%20Souls&color=C9A961&style=for-the-badge&logo=temple" />
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=19&height=140&section=footer&text=⚡&fontSize=80&fontColor=39FF14&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F3460&secondColor=16213E&height=120&section=footer&text=⛩️&fontSize=60&fontColor=C9A961&animation=fadeIn"/>
 
-### 🌟 **Commander's Final Transmission**
-```yaml
-╔═══════════════════════════════════════════════════╗
-║  "In the vast cosmos of code, every bug is just   ║
-║   an undiscovered feature waiting to be explored" ║
-║                                                   ║
-║  - Commander Soumabrata Ghosh, Digital Space Pioneer      ║
-╚═══════════════════════════════════════════════════╝
-```
+**"The code that is not tested is not code at all"** - Ancient Dojo Wisdom 🥋
 
 </div>
