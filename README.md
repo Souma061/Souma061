@@ -1,7 +1,7 @@
 # 🌐 Welcome to Soumabrata Ghosh's Digital Matrix
 
 <div align="center">
-  
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I%27m+Soumabrata Ghosh;Don't stop when you are TIRED, Stop when you are DONE;Welcome+to+my+Digital+Realm!)
 
 </div>
@@ -12,12 +12,12 @@
 
 ```ascii
 ┌─ DEVELOPER INFO ────────────────────────────────────────┐
-│                                                         │
-│  🎯 Current Mission: Building an Video Sharing and Streaming platform where users can share videos and stream live and also can watch videos.                │
-│  🚀 Skill Upgrade:  [![My Skills](https://skillicons.dev/icons?i=js,react,tailwindcss,bootstrap,vite,nodejs,express,mysql,mongodb,linux,flutter,figma,git,github,vscode,postman,discord)](https://skillicons.dev)                         │
-│  📍 Base Location:  Howrah, India                       │
-│  ⚡ Power Level:    Beginner                │
-│                                                         │
+│                                                         │
+│  🎯 Current Mission: Building a Video Sharing and Streaming platform. │
+│  🚀 Skill Upgrade:  MERN Stack, Flutter, and DSA                 │
+│  📍 Base Location:  Howrah, India                                │
+│  ⚡ Power Level:    Beginner                              a     │
+│                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
