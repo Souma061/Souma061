@@ -1,191 +1,88 @@
-# 🗡️ HUNTER Soumabrata Ghosh 🗡️
+# 🌐 Welcome to Soumabrata Ghosh's Digital Matrix
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM+LOADING...;HUNTER+AWAKENED;SHADOW+EXTRACTION+READY;ARISE+MY+SHADOWS!" alt="Hunter System Loading"/>
-</div>
-
----
-
-<div align="center">
-
-## 📱 **STATUS WINDOW**
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                    HUNTER INFORMATION                    ║
-╠══════════════════════════════════════════════════════════╣
-║  NAME: Soumabrata Ghosh                                          ║
-║  ALIAS: [Your alias]                                        ║
-║  RANK: S-CLASS DEVELOPER                                 ║
-║  LEVEL: Beginner                              ║
-║  CLASS: [Your role]                                         ║
-║  GUILD: [Your company]                                      ║
-║  SPECIALTY: Web Development, Data Science                              ║
-║  STATUS: 🟢 READY FOR RAID                              ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### 🌟 **HUNTER PROFILE**
-> **"A passionate fullstack developer from India.I have passion for building real-world solutions and Scalable product. Currently pursuing B.Sc. Computer Science Hons. from Narasinha Dutt College."**
-> 
-> *"Don't stop when you are TIRED, Stop when you are DONE"* - The Shadow Monarch's Wisdom
-
-**MOTIVATION**: Solving real world problems
-
----
-
-## ⚔️ **ACTIVE DUNGEON RAIDS**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,27,12&height=120&section=header&text=DUNGEON%20EXPLORATION&fontSize=24&fontColor=ffffff&animation=twinkling"/>
-</div>
-
-### 🏰 **SSS-RANK DUNGEON**: Stellarium
-```
-┌─ RAID INFORMATION ──────────────────────────────────┐
-│ DUNGEON TYPE: A modern, elegant astrology website that brings the mysteries of the cosmos to your fingertips. Stellarium offers personalized horoscope readings, celestial insights, and astrological guidance in a beautifully crafted digital experience.               │
-│ REQUIRED SKILLS: Html5, CSS#, JavaScript                   │
-│ CLEAR STATUS: ████████████ COMPLETED               │
-│ DUNGEON GATE: [🚪 ENTER](https://stellarium-ecru.vercel.app/)         │
-│ REWARDS: +1000 EXP, Rare Items                     │
-└─────────────────────────────────────────────────────┘
-```
-
-### 🏯 **SS-RANK DUNGEON**: PostMee
-```
-┌─ RAID IN PROGRESS ──────────────────────────────────┐
-│ BOSS FIGHT:  modern blogging playground built with React, Tailwind CSS, and Appwrite.                 │
-│ WEAPON: React, Tailwind CSS, Appwrite                            │
-│ PROGRESS: ████████░░░░ 80% CLEARED                  │
-│ DUNGEON GATE: [⚡ BATTLE](https://postmee-123.vercel.app/)         │
-│ PARTY STATUS: SOLO CLEARING                        │
-└─────────────────────────────────────────────────────┘
-```
-
-### 🌙 **S-RANK DUNGEON**: LinguaChat
-```
-┌─ RECONNAISSANCE PHASE ──────────────────────────────┐
-│ MYSTERY BOSS: Real-time, multilingual chat for hackathons. The backend (Node/Express + Socket.IO) translates every message on the fly via Lingo.dev—our AI translation partner—while the frontend delivers a WhatsApp-inspired experience served from the same server.               │
-│ PREPARATION: Planning & Strategy                    │
-│ DANGER LEVEL: ████████████ EXTREMELY HIGH          │
-│ STATUS: 🔍 ANALYZING ENEMY PATTERNS                 │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 👥 **SHADOW ARMY** (Tech Stack)
-
-<div align="center">
-
-### **SHADOW SOLDIERS EXTRACTED**
-React, JavaScript, MongoDb, Linux, Postman
-
-### **COMMAND HIERARCHY**
-```
-        🗡️ SHADOW MONARCH (Soumabrata Ghosh)
-               │
-       ┌───────┼───────┐
-       │       │       │
-   Full Stack Development  [Your skill2]  [Your skill3]
-   [KNIGHT]   [MAGE]   [ASSASSIN]
-```
-
-</div>
-
-### **SHADOW EXTRACTION LOG**
-```javascript
-// Shadow Soldier Management System
-const shadowArmy = {
-  commander: 'Soumabrata Ghosh',
-  soldiers: {
-    frontend: '[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)',
-    backend: 'JavaScript, NodeJs, Python',
-    learning: 'Dart, TypeScript',
-    nextTarget: 'Devops Engineer'
-  },
   
-  arise: function() {
-    console.log("ARISE! 🌙");
-    return this.soldiers;
-  }
-};
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I%27m+Soumabrata Ghosh;Don't stop when you are TIRED, Stop when you are DONE;Welcome+to+my+Digital+Realm!)
 
-shadowArmy.arise();
+</div>
+
+---
+
+## 🔥 System Status
+
+```ascii
+┌─ DEVELOPER INFO ────────────────────────────────────────┐
+│                                                         │
+│  🎯 Current Mission: Building an Video Sharing and Streaming platform where users can share videos and stream live and also can watch videos.                │
+│  🚀 Skill Upgrade:  [![My Skills](https://skillicons.dev/icons?i=js,react,tailwindcss,bootstrap,vite,nodejs,express,mysql,mongodb,linux,flutter,figma,git,github,vscode,postman,discord)](https://skillicons.dev)                         │
+│  📍 Base Location:  Howrah, India                       │
+│  ⚡ Power Level:    Beginner                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📊 **HUNTER STATISTICS**
+## 💻 Neural Network
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumabrata Ghosh&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9333EA&icon_color=F59E0B&text_color=E5E7EB&border_color=6366F1" alt="Hunter Stats"/>
+
+### 🧠 Core Programming
+
+A passionate fullstack developer from India.I have passion for building real-world solutions and Scalable product. Currently pursuing B.Sc. Computer Science Hons. from Narasinha Dutt College.
+
+</div>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumabrata Ghosh&theme=tokyonight&background=0D1117&border=6366F1&ring=9333EA&fire=F59E0B&currStreakLabel=9333EA" alt="Raid Streak"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souma061&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
 
-### **TRAINING REGIMEN**
-```
-┌─ DAILY QUEST COMPLETION ────────────────────────────┐
-│ CODING HOURS: 42-45 hours hrs/week         │
-│ SKILL MASTERY: ████████████ 95%                    │
-│ DUNGEON CLEARS: ∞                                  │
-│ LEVEL UP READY: 🔥 MAXIMUM POTENTIAL               │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 🏆 **ACHIEVEMENTS UNLOCKED**
-
-<div align="center">
-
-### **LEGENDARY TITLES**
-🎖️ **Built a Chat app with multi language support.** - *FIRST CLEAR BONUS*
-
-⚡ **[Your achievement2]** - *SPEED RUN RECORD*
-
-🌟 **[Your achievement3]** - *GUILD MASTER RECOGNITION*
-
-### **SPECIAL ABILITIES**
-```
-💀 SHADOW EXTRACTION: [Your superpower]
-🗡️ DUAL WIELDING: Code + Innovation
-👑 MONARCH'S AUTHORITY: Leadership in Tech
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souma061&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
 
 </div>
 
 ---
 
-## 🌐 **HUNTER ASSOCIATION CONTACTS**
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![Hunter LinkedIn](https://img.shields.io/badge/LinkedIn-HUNTER_NETWORK-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](soumabrata-ghosh-85862530b)
-[![Shadow Twitter](https://img.shields.io/badge/Twitter-SHADOW_FEED-[Your color2]?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a)](SOUMABRATAGHOS4)
-[![Portal](https://img.shields.io/badge/Portfolio-DIMENSIONAL_GATE-[Your color3]?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)]([Your portfolio])
-[![System](https://img.shields.io/badge/Email-HUNTER_SYSTEM-purple?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:soumabrataghosh57@gmail.com)
+### Languages & Frameworks
+![Tech Stack](https://skillicons.dev/icons?i=JavaScript, NodeJs, Python&theme=dark)
+
+### Tools & Platforms  
+![Tools](https://skillicons.dev/icons?i=[Your tools]&theme=dark)
 
 </div>
 
 ---
 
-## 🎮 **HUNTER RANK PROGRESSION**
+## 🌟 Achievement Unlocked
 
 <div align="center">
 
 ```
-E-RANK ████████████████████████████████████████ S-RANK
-        (Beginner)                              (Beginner)
-
-NEXT GOAL: Devops Engineer - NATIONAL LEVEL HUNTER
+🏆 [Your achievement]
+💡 Fun Fact: [Your funFact]
+🎮 Gaming Mode: Reading Books
 ```
 
-### **VISITOR TRACKING SYSTEM**
-![Dungeon Visitors](https://profile-counter.glitch.me/Soumabrata Ghosh/count.svg)
+</div>
+
+---
+
+## 📡 Establish Connection
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-soumabrataghosh57@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumabrataghosh57@gmail.com)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-[Your website]-00FF41?style=for-the-badge&logo=safari&logoColor=white)]([Your website])
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-[Your linkedinUsername]-00FF41?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-[Your twitterUsername]-00FF41?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
 
 </div>
 
@@ -193,19 +90,13 @@ NEXT GOAL: Devops Engineer - NATIONAL LEVEL HUNTER
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,27,12&height=120&section=footer&text=SHADOW+MONARCH&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+### 💚 System Uptime
+![Profile Views](https://komarev.com/ghpvc/?username=Souma061&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
-### **SYSTEM MESSAGE**
-*"The weak are meat, and the strong eat. But I... I am the hunter who devours all."*
+**"Don't stop when you are TIRED, Stop when you are DONE"** - Soumabrata Ghosh
 
-**HUNTER STATUS**: Ready for the next raid 🗡️
+---
+
+*🔋 Powered by Coffee & Code | 🌱 Always Growing | 🚀 Ready to Deploy*
 
 </div>
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║              SYSTEM NOTIFICATION                          ║
-║  You have gained +1 EXP from visiting this profile!      ║
-║  Thank you for joining the Shadow Army! 🌙               ║
-╚═══════════════════════════════════════════════════════════╝
-```
