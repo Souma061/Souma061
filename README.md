@@ -1,190 +1,191 @@
+# 🗡️ HUNTER Soumabrata Ghosh 🗡️
+
 <div align="center">
-  
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Soumabrata Ghosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=[Your role]%20at%20[Your company]&descAlign=50&descAlignY=51&descSize=16"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=A passionate fullstack developer from India.I have passion for building real-world solutions and Scalable product. Currently pursuing B.Sc. Computer Science Hons. from Narasinha Dutt College.;Don't stop when you are TIRED, Stop when you are DONE" alt="Typing Animation"/>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=SYSTEM+LOADING...;HUNTER+AWAKENED;SHADOW+EXTRACTION+READY;ARISE+MY+SHADOWS!" alt="Hunter System Loading"/>
 </div>
 
 ---
 
 <div align="center">
 
-## 🎯 WHO AM I?
+## 📱 **STATUS WINDOW**
 
-<table>
-<tr>
-<td>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
-</td>
-<td>
-
-```yaml
-name: Soumabrata Ghosh
-located_in: Howrah, India
-current_company: [Your company]
-current_role: [Your role]
-education: [Your education]
-website: [Your website]
-
-currently_learning: App Development, Data Structures and Algorithm
-2024_goal: Make meaningful websites to help the world and make the web more beautiful. Also contribute to the opensource community.
-hobbies: Reading books, Watching Movies & Series, Football, Cricket
+```
+╔══════════════════════════════════════════════════════════╗
+║                    HUNTER INFORMATION                    ║
+╠══════════════════════════════════════════════════════════╣
+║  NAME: Soumabrata Ghosh                                          ║
+║  ALIAS: [Your alias]                                        ║
+║  RANK: S-CLASS DEVELOPER                                 ║
+║  LEVEL: Beginner                              ║
+║  CLASS: [Your role]                                         ║
+║  GUILD: [Your company]                                      ║
+║  SPECIALTY: Web Development, Data Science                              ║
+║  STATUS: 🟢 READY FOR RAID                              ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
+
+### 🌟 **HUNTER PROFILE**
+> **"A passionate fullstack developer from India.I have passion for building real-world solutions and Scalable product. Currently pursuing B.Sc. Computer Science Hons. from Narasinha Dutt College."**
+> 
+> *"Don't stop when you are TIRED, Stop when you are DONE"* - The Shadow Monarch's Wisdom
+
+**MOTIVATION**: Solving real world problems
 
 ---
 
+## ⚔️ **ACTIVE DUNGEON RAIDS**
+
 <div align="center">
-
-## 🚀 TECH STACK & TOOLS
-
-<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,tailwindcss,bootstrap,vite,nodejs,express,mysql,mongodb,linux,flutter,figma,git,github,vscode,postman,discord)](https://skillicons.dev)&perline=8" />
-
-<br/><br/>
-
-<!-- Programming Languages -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souma061&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,27,12&height=120&section=header&text=DUNGEON%20EXPLORATION&fontSize=24&fontColor=ffffff&animation=twinkling"/>
 </div>
+
+### 🏰 **SSS-RANK DUNGEON**: Stellarium
+```
+┌─ RAID INFORMATION ──────────────────────────────────┐
+│ DUNGEON TYPE: A modern, elegant astrology website that brings the mysteries of the cosmos to your fingertips. Stellarium offers personalized horoscope readings, celestial insights, and astrological guidance in a beautifully crafted digital experience.               │
+│ REQUIRED SKILLS: Html5, CSS#, JavaScript                   │
+│ CLEAR STATUS: ████████████ COMPLETED               │
+│ DUNGEON GATE: [🚪 ENTER](https://stellarium-ecru.vercel.app/)         │
+│ REWARDS: +1000 EXP, Rare Items                     │
+└─────────────────────────────────────────────────────┘
+```
+
+### 🏯 **SS-RANK DUNGEON**: PostMee
+```
+┌─ RAID IN PROGRESS ──────────────────────────────────┐
+│ BOSS FIGHT:  modern blogging playground built with React, Tailwind CSS, and Appwrite.                 │
+│ WEAPON: React, Tailwind CSS, Appwrite                            │
+│ PROGRESS: ████████░░░░ 80% CLEARED                  │
+│ DUNGEON GATE: [⚡ BATTLE](https://postmee-123.vercel.app/)         │
+│ PARTY STATUS: SOLO CLEARING                        │
+└─────────────────────────────────────────────────────┘
+```
+
+### 🌙 **S-RANK DUNGEON**: LinguaChat
+```
+┌─ RECONNAISSANCE PHASE ──────────────────────────────┐
+│ MYSTERY BOSS: Real-time, multilingual chat for hackathons. The backend (Node/Express + Socket.IO) translates every message on the fly via Lingo.dev—our AI translation partner—while the frontend delivers a WhatsApp-inspired experience served from the same server.               │
+│ PREPARATION: Planning & Strategy                    │
+│ DANGER LEVEL: ████████████ EXTREMELY HIGH          │
+│ STATUS: 🔍 ANALYZING ENEMY PATTERNS                 │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
+## 👥 **SHADOW ARMY** (Tech Stack)
+
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+### **SHADOW SOLDIERS EXTRACTED**
+React, JavaScript, MongoDb, Linux, Postman
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souma061&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Souma061&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souma061&custom_title=Soumabrata Ghosh's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
+### **COMMAND HIERARCHY**
+```
+        🗡️ SHADOW MONARCH (Soumabrata Ghosh)
+               │
+       ┌───────┼───────┐
+       │       │       │
+   Full Stack Development  [Your skill2]  [Your skill3]
+   [KNIGHT]   [MAGE]   [ASSASSIN]
+```
 
 </div>
 
+### **SHADOW EXTRACTION LOG**
+```javascript
+// Shadow Soldier Management System
+const shadowArmy = {
+  commander: 'Soumabrata Ghosh',
+  soldiers: {
+    frontend: '[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)',
+    backend: 'JavaScript, NodeJs, Python',
+    learning: 'Dart, TypeScript',
+    nextTarget: 'Devops Engineer'
+  },
+  
+  arise: function() {
+    console.log("ARISE! 🌙");
+    return this.soldiers;
+  }
+};
+
+shadowArmy.arise();
+```
+
 ---
 
+## 📊 **HUNTER STATISTICS**
+
 <div align="center">
-
-## 🏆 ACHIEVEMENTS & TROPHIES
-
-<img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Souma061&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumabrata Ghosh&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9333EA&icon_color=F59E0B&text_color=E5E7EB&border_color=6366F1" alt="Hunter Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumabrata Ghosh&theme=tokyonight&background=0D1117&border=6366F1&ring=9333EA&fire=F59E0B&currStreakLabel=9333EA" alt="Raid Streak"/>
 </div>
 
----
-
-<div align="center">
-
-## 💼 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
-
-### 🎨 LinguChat
-
-[Your projectDescription1]
-
-**Tech Stack:** `JavaScript, NodeJs, Lingo.dev, Socket.io`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([Your projectLink1])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo1])
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-### 🚀 PostMee
-
-[Your projectDescription2]
-
-**Tech Stack:** `React, NodeJs, Express, Appwrite`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)]([Your projectLink2])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo2])
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
-
-### 🔥 Stellarium
-
-[Your projectDescription3]
-
-**Tech Stack:** `Html5, Css3, JavaScript`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=heroku)]([Your projectLink3])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo3])
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
-
-### ⚡ [Your projectName4]
-
-[Your projectDescription4]
-
-**Tech Stack:** `[Your projectStack4]`
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=firebase)]([Your projectLink4])
-[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo4])
-
-</td>
-</tr>
-</table>
-
-</div>
+### **TRAINING REGIMEN**
+```
+┌─ DAILY QUEST COMPLETION ────────────────────────────┐
+│ CODING HOURS: 42-45 hours hrs/week         │
+│ SKILL MASTERY: ████████████ 95%                    │
+│ DUNGEON CLEARS: ∞                                  │
+│ LEVEL UP READY: 🔥 MAXIMUM POTENTIAL               │
+└─────────────────────────────────────────────────────┘
+```
 
 ---
 
+## 🏆 **ACHIEVEMENTS UNLOCKED**
+
 <div align="center">
 
-## 🎯 CURRENT FOCUS
+### **LEGENDARY TITLES**
+🎖️ **Built a Chat app with multi language support.** - *FIRST CLEAR BONUS*
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+⚡ **[Your achievement2]** - *SPEED RUN RECORD*
 
-```mermaid
-graph LR
-    A[🔭 Currently Working On] --> B[Building an Video Sharing and Streaming platform where users can share videos and stream live and also can watch videos.]
-    C[🌱 Learning] --> D[App Development, Data Structures and Algorithm]
-    E[💬 Ask Me About] --> F[Full Stack Development]
-    G[⚡ Fun Fact] --> H[[Your funFact]]
-    
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#96ceb4
+🌟 **[Your achievement3]** - *GUILD MASTER RECOGNITION*
+
+### **SPECIAL ABILITIES**
+```
+💀 SHADOW EXTRACTION: [Your superpower]
+🗡️ DUAL WIELDING: Code + Innovation
+👑 MONARCH'S AUTHORITY: Leadership in Tech
 ```
 
 </div>
 
 ---
 
+## 🌐 **HUNTER ASSOCIATION CONTACTS**
+
 <div align="center">
 
-## 📈 CONTRIBUTION GRAPH
+[![Hunter LinkedIn](https://img.shields.io/badge/LinkedIn-HUNTER_NETWORK-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](soumabrata-ghosh-85862530b)
+[![Shadow Twitter](https://img.shields.io/badge/Twitter-SHADOW_FEED-[Your color2]?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a)](SOUMABRATAGHOS4)
+[![Portal](https://img.shields.io/badge/Portfolio-DIMENSIONAL_GATE-[Your color3]?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a1a)]([Your portfolio])
+[![System](https://img.shields.io/badge/Email-HUNTER_SYSTEM-purple?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:soumabrataghosh57@gmail.com)
 
-<img src="https://raw.githubusercontent.com/Souma061/Souma061/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🎮 **HUNTER RANK PROGRESSION**
+
+<div align="center">
+
+```
+E-RANK ████████████████████████████████████████ S-RANK
+        (Beginner)                              (Beginner)
+
+NEXT GOAL: Devops Engineer - NATIONAL LEVEL HUNTER
+```
+
+### **VISITOR TRACKING SYSTEM**
+![Dungeon Visitors](https://profile-counter.glitch.me/Soumabrata Ghosh/count.svg)
 
 </div>
 
@@ -192,57 +193,19 @@ graph LR
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,27,12&height=120&section=footer&text=SHADOW+MONARCH&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+### **SYSTEM MESSAGE**
+*"The weak are meat, and the strong eat. But I... I am the hunter who devours all."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your website])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[Your instagramUsername])
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[Your youtubeChannel])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumabrataghosh57@gmail.com)
-
-### 💬 Let's Talk About:
-- 🔥 Web Development & Modern Frameworks
-- 🤖 AI/ML & Data Science
-- 🎨 UI/UX Design Principles
-- 🚀 Startup Ideas & Innovation
-- 📚 Tech Books & Learning Resources
+**HUNTER STATUS**: Ready for the next raid 🗡️
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 WEEKLY DEVELOPMENT BREAKDOWN
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 SPOTIFY PLAYING
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Souma061&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-### Thanks for visiting! Have a great day! ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
-
-</div>
+```
+╔═══════════════════════════════════════════════════════════╗
+║              SYSTEM NOTIFICATION                          ║
+║  You have gained +1 EXP from visiting this profile!      ║
+║  Thank you for joining the Shadow Army! 🌙               ║
+╚═══════════════════════════════════════════════════════════╝
+```
