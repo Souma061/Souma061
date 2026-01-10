@@ -1,3 +1,9 @@
+<div align="center">
+  <img 
+    src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20there,%20I%20am%20Jagrati%20🙋‍♀️&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=FFFFFF](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Soumabrata&textBg=false&animation=twinkling&fontAlignY=35&descAlign=35&descAlignY=18&descSize=-30&fontSize=35)" 
+    width="100%"
+  />
+</div>
 # 💫 About Me:
 Hi, I'm Soumabrata— a B.Sc Computer Science student from India.<br>I’m a MERN Stack Developer, passionate in Backend.<br>I'm continuously grinding my skills in Backend and learning new stuffs. Currently focusing in typeScript.
 
