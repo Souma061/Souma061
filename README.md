@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20there,%20I%20am%20Jagrati%20🙋‍♀️&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=FFFFFF](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Soumabrata&textBg=false&animation=twinkling&fontAlignY=35&descAlign=35&descAlignY=18&descSize=-30&fontSize=35)" 
+    src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20there,%20I%20am%20Jagrati%20🙋‍♀️&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=FFFFFF](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Soumabrata&textBg=false&animation=twinkling&fontAlignY=35&descAlign=35&descAlignY=18&descSize=-30&fontSize=35)](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Soumabrata&textBg=false&animation=twinkling&fontAlignY=35&descAlign=35&descAlignY=18&descSize=-30&fontSize=35)" 
     width="100%"
   />
 </div>
