@@ -7,7 +7,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?JetBrainsMono+Nerd+Font+Mono&size=30&pause=1000&width=435&lines=MERN+Stack+Developer;Backend+Enthusiast;TypeScript+Learner"
+    src="https://readme-typing-svg.herokuapp.com?JetBrainsMono+Nerd+Font+Mono&size=30&pause=1000&width=435&lines=MERN+Stack+Developer;Backend+Enthusiast;TypeScript+Learner;Grinding+DSA"
     alt="Typing SVG"
   />
 </div>
