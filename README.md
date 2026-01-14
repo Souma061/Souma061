@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=Souma061&label=Profile%20views&color=7a9ce1&style=plastic" alt="Souma061" />
 </p>
 
-Hi, I'm Soumabrata— a B.Sc Computer Science student from India.<br>I’m a MERN Stack Developer, passionate in Backend.<br>I'm continuously grinding my skills in Backend and learning new stuffs. Currently focusing in typeScript.
+Hi, I'm Soumabrata— A B.Sc Computer Science student from India.<br>I’m a MERN Stack Developer, passionate in Backend.<br>I'm continuously grinding my skills in Backend and learning new stuffs. Currently focusing in typeScript.
 
 ## 🌐 Socials:
 
