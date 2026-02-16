@@ -17,8 +17,11 @@
 
 <div align="center">
 
-Hi, I'm **Soumabrata** — A B.Sc Computer Science student and Backend Developer from India 🇮🇳.
-I specialize in building scalable MERN stack applications and am currently diving deep into **System Design** and **TypeScript**.
+Hi, I'm **Soumabrata** — a B.Sc Computer Science student and Backend-focused MERN developer from India 🇮🇳.
+I build scalable real-time applications and am currently focused on **System Design, TypeScript, and Data Structures**.
+
+_I aim to design reliable backend systems that scale efficiently and solve real-world communication problems._
+
 
 </div>
 
