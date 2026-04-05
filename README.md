@@ -175,7 +175,7 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clap" width="25" /> Top Contributed Repo
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clap" width="25" /> Top Contributed Repo
 
 <div align="center">
 
@@ -187,7 +187,7 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Zap" width="25" /> My Contribution Activity
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Zap" width="25" /> My Contribution Activity
 
 <div align="center">
   <img width="100%"
