@@ -119,20 +119,13 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souma061&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souma061&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Souma061&theme=dark"
-    width="32%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Souma061&theme=dark"
-    width="32%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Souma061&theme=dark"
-    width="32%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souma061&theme=radical" alt="Souma061" />
 </div>
 
 <br>
@@ -147,9 +140,9 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 
 </div>
 
----
 
-<br>
+
+<!-- <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" /> GitHub Trophies
 
@@ -157,7 +150,7 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 
 ![](https://github-profile-trophy.vercel.app/?username=Souma061&theme=catppuccin_mocha&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+</div> -->
 
 ---
 
@@ -173,7 +166,7 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 
 ---
 
-<br>
+<!-- <br>
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clap" width="25" /> Top Contributed Repo
 
@@ -181,9 +174,9 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 
 ![](https://github-contributor-stats.vercel.app/api?username=Souma061&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
-</div>
+</div> -->
 
----
+
 
 <br>
 
