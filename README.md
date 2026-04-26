@@ -44,7 +44,7 @@ _I aim to design reliable backend systems that scale efficiently and solve real-
 | :---------------- | :-------------------------------------------------- | :------------------------------ |
 | **LinguaChat**    | A real-time chat app with auto-translation support. | `Socket.io` `Node.js` `React`   |
 | **ConvertMetriq** | A precision unit converter with a modern UI.        | `JavaScript` `React` `Tailwind` |
-| **Ludo**          | A mutiplayer Ludo Game.                             | `React` `Tailwind` `TypeScript` |
+| **EventVault**          | Event Booking Service.                             | `FastAPI` `React` `TypeScript` |
 
 </div>
 
