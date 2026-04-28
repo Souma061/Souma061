@@ -128,15 +128,17 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=tokyonight" alt="Soumabrata's GitHub profile summary" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=tokyonight" alt="Soumabrata's GitHub profile summary" />
 
 <br />
 <br />
 
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Souma061&theme=tokyonight" alt="Soumabrata's top languages" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Souma061&theme=tokyonight" alt="Soumabrata's GitHub stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Souma061&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Soumabrata's GitHub streak" />
 
@@ -148,7 +150,7 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 <div align="center">
 
-<img width="98%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random developer quote" />
+<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random developer quote" />
 
 </div>
 
