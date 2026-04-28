@@ -166,9 +166,9 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 <div align="center">
 
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Souma061&icon=0&color=0" alt="Visit count" />
-</a>
+</a> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" alt="Footer wave" />
 
