@@ -143,7 +143,7 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 <br />
 
-<img width="360" src="https://github-readme-streak-stats.herokuapp.com?user=Souma061&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=360" alt="Soumabrata's GitHub streak" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Souma061&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" alt="Soumabrata's GitHub streak" />
 
 </div>
 
