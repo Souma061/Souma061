@@ -164,13 +164,13 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Souma061&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
 ![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=tokyonight)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souma061&theme=radical" alt="Souma061" />
-</div>
+</div> -->
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Souma061&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -178,7 +178,7 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souma061&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+</div> -->
 
 
 
