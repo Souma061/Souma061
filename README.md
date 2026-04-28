@@ -133,7 +133,7 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 <div align="center">
 
-<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=tokyonight" alt="Soumabrata's GitHub profile summary" />
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Souma061&theme=tokyonight" alt="Soumabrata's GitHub profile summary" />
 
 <br />
 <br />
