@@ -36,7 +36,7 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 | :-- | :-- | :-- | :-- |
 | **kafka-learning** | Order, inventory, and email microservices with Kafka async communication. | `Outbox Pattern` `Leader Election` `DLQ` `Idempotency` `Circuit Breakers` | — |
 | **Event-Booking-Service** | Full-stack event booking platform scaled to 1,013 req/s with 33 workers. | `Rate Limiting` `TTL Cache` `Async Workers` `Load Testing` | [Live Demo](https://event-booking-service.vercel.app/) |
-| **LinguaChat** | Real-time chat app with auto-translation support. | `WebSockets` `Real-time Translation` |https://lingua-chat.vercel.app/|
+| **LinguaChat** | Real-time chat app with auto-translation support. | `WebSockets` `Real-time Translation` |[Live Demo|[https://lingua-chat.vercel.app/]
 
 ---
 
