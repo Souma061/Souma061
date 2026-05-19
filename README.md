@@ -67,14 +67,6 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 - **Terraform Modules** - Infrastructure as Code for AWS deployment (VPC, EKS, RDS)
 - **System Design Library** - Documenting solutions to common distributed systems problems (rate limiting, consensus, sharding)
 
----
-
-## 📚 Learning Journey
-
-- 🎯 **Confluent Kafka Developer** (in progress)
-- 🎯 **AWS Solutions Architect** (planned Q3 2026)
-- 📖 Currently reading: *"Designing Data-Intensive Applications"* by Martin Kleppmann
-- 🎓 **MIT 6.824: Distributed Systems** (self-study)
 
 ---
 
