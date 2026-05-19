@@ -30,13 +30,51 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 ---
 
+## 🏆 Distributed Systems Projects
+
+| Project | Description | Key Patterns | Live Demo |
+| :-- | :-- | :-- | :-- |
+| **kafka-learning** | Order, inventory, and email microservices with Kafka async communication. | `Outbox Pattern` `Leader Election` `DLQ` `Idempotency` `Circuit Breakers` | — |
+| **Event-Booking-Service** | Full-stack event booking platform scaled to 1,013 req/s with 33 workers. | `Rate Limiting` `TTL Cache` `Async Workers` `Load Testing` | [Live Demo](https://event-booking-service.vercel.app/) |
+| **LinguaChat** | Real-time chat app with auto-translation support. | `WebSockets` `Real-time Translation` | — |
+
+---
+
+## 📝 Technical Deep Dive
+
+> *Recent achievements that demonstrate distributed systems engineering skills*
+
+- **Scaled Event-Booking to 1,013 req/s** - 33 workers achieved 394% throughput improvement, p95 latency dropped from 3,100ms to 44ms
+- **Implemented Kafka Outbox Pattern** - Transactional event publishing with Redis + PostgreSQL spillover (1000+ queue overflow handling)
+- **Zero booking race failures** - 46,576 concurrent seat grab operations in load test with 0 race condition failures
+- **Async password hashing** - Migrated CPU-bound bcrypt operations to `run_in_executor`, eliminated event loop blocking
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :-- | :-- | :-- |
+| **kafka-learning** | Multi-service e-commerce backend with Kafka, outbox pattern, leader election, and DLQ. | `FastAPI` `Kafka` `Redis` `PostgreSQL` `Docker` |
+| **Event-Booking-Service** | Production-grade booking platform with payment integration and 1k+ req/s capacity. | `FastAPI` `React` `TypeScript` `PostgreSQL` `Redis` `Cashfree` |
 | **LinguaChat** | Real-time chat app with auto-translation support. | `Socket.io` `Node.js` `React` |
-| **ConvertMetriq** | Precision unit converter with a clean modern UI. | `JavaScript` `React` `Tailwind` |
-| **EventVault** | Event booking platform with backend APIs and frontend flows. | `FastAPI` `React` `TypeScript` |
+
+---
+
+## 🔨 Currently Building
+
+- **Distributed Tracing Demo** - Adding OpenTelemetry + Jaeger to Kafka microservices for end-to-end request visualization
+- **Terraform Modules** - Infrastructure as Code for AWS deployment (VPC, EKS, RDS)
+- **System Design Library** - Documenting solutions to common distributed systems problems (rate limiting, consensus, sharding)
+
+---
+
+## 📚 Learning Journey
+
+- 🎯 **Confluent Kafka Developer** (in progress)
+- 🎯 **AWS Solutions Architect** (planned Q3 2026)
+- 📖 Currently reading: *"Designing Data-Intensive Applications"* by Martin Kleppmann
+- 🎓 **MIT 6.824: Distributed Systems** (self-study)
 
 ---
 
@@ -66,15 +104,11 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <!-- Add these to your backend section -->
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 </details>
@@ -85,9 +119,21 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 Observability & Monitoring</b></summary>
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-415C9B?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
 </details>
@@ -108,12 +154,12 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Locust-009944?style=for-the-badge&logo=locust&logoColor=white" alt="Locust" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 </details>
@@ -123,18 +169,17 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 </details>
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -177,10 +222,6 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 ---
 
 <div align="center">
-
-<!-- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Souma061&icon=0&color=0" alt="Visit count" />
-</a> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" alt="Footer wave" />
 
