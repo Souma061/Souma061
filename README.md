@@ -34,9 +34,9 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 
 | Project | Description | Key Patterns | Live Demo |
 | :-- | :-- | :-- | :-- |
-| **kafka-learning** | Order, inventory, and email microservices with Kafka async communication. | `Outbox Pattern` `Leader Election` `DLQ` `Idempotency` `Circuit Breakers` | — |
+| **kafka-learning** | Order, inventory, and email microservices with Kafka async communication. | `Outbox Pattern` `Leader Election` `DLQ` `Idempotency` `Circuit Breakers` |[Repo](https://github.com/Souma061/kafka-learning) |
 | **Event-Booking-Service** | Full-stack event booking platform scaled to 1,013 req/s with 33 workers. | `Rate Limiting` `TTL Cache` `Async Workers` `Load Testing` | [Live Demo](https://event-booking-service.vercel.app/) |
-| **LinguaChat** | Real-time chat app with auto-translation support. | `WebSockets` `Real-time Translation` |[Live Demo](https://lingua-chat.vercel.app/) |
+| **Webhook-Relay-Service** |A self-hostable, high-performance, and fully decoupled Webhook Relay & Transformation Service.| `Kafka` `Fastapi` |[Repo](https://github.com/Souma061/Webhook-Relay-Service) |
 
 ---
 
