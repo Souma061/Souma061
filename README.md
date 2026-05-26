@@ -64,7 +64,7 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
 ## 🔨 Currently Building
 
 - **Distributed Tracing Demo** - Adding OpenTelemetry + Jaeger to Kafka microservices for end-to-end request visualization
-- **Terraform Modules** - Infrastructure as Code for AWS deployment (VPC, EKS, RDS)
+- **Webhook Relay Service** - A self-hostable, high-performance, and fully decoupled Webhook Relay & Transformation Service.
 - **System Design Library** - Documenting solutions to common distributed systems problems (rate limiting, consensus, sharding)
 
 
