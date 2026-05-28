@@ -24,6 +24,9 @@ _My aim is to become a distributed systems engineer and be among the top 1% of s
   <a href="mailto:soumabrataghosh57@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+    <a href="https://dev.to/souma061">
+    ![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)   
+  </a>
 </p>
 
 </div>
