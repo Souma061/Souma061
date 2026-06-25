@@ -15,7 +15,7 @@ I build scalable, security-focused applications and I am currently learning **Sy
 _My aim is to become a distributed systems engineer and be among the top 1% of software developers._
 
 <p>
-  <a href="https://instagram.com/ghosh_soumabrata061">
+  <a href="https://www.instagram.com/itsmesoumabrata/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/soumabrata-ghosh-85862530b/">
